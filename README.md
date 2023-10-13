@@ -18,3 +18,7 @@ And,type in terminal
 ```
 localweather
 ```
+You can use this command without setup.
+```
+localweather "Tokyo" "api_token"
+```
