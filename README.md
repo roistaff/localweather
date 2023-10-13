@@ -20,5 +20,5 @@ localweather
 ```
 You can use this command without setup.
 ```
-localweather "Tokyo" "api_token"
+localweather "place" "api_token"
 ```
