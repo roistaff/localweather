@@ -9,7 +9,10 @@ go install github.com/roistaff/localweather@latest
 At first,you need to setup your weatherapi token and location.
 Set up with
 ```
-export 
+export WEATHERKEY= your api token 
+```
+```
+export LOCATION=your location
 ```
 And,type in terminal
 ```
