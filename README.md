@@ -22,4 +22,3 @@ You can use this command without setup.
 ```
 localweather "place" "api_token"
 ```
-HELLO
